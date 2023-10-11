@@ -48,7 +48,7 @@ Feel free to explore and let me know what you think! Feedback is my love languag
 <!-- - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) -->
 - 📧 Email: amir.naar@gmail.com
 - 💼 [Linkedin](www.linkedin.com/in/amir-naar/)
-<!-- - 🌐 Website: [Your Portfolio or Blog] -->
+- 🌐 [Portfolio](https://troopl.com/amirnaar)
 
 <!-- ## 🤖 Fun Fact -->
 

@@ -34,8 +34,8 @@ Feel free to explore and let me know what you think! Feedback is my love languag
 - 💼 LinkedIn: [www.linkedin.com/in/amir-naar/]
 <!-- - 🌐 Website: [Your Portfolio or Blog] -->
 
-## 🤖 Fun Fact
+<!-- ## 🤖 Fun Fact
 
-I've mastered the art of debugging by explaining my code issues to my rubber duck, Ducky McDebug. It turns out, rubber ducks are excellent listeners, and explaining the problem often leads to "Aha!" moments. Quack-tastic debugging strategy! 🦆🚀
+I've mastered the art of debugging by explaining my code issues to my rubber duck, Ducky McDebug. It turns out, rubber ducks are excellent listeners, and explaining the problem often leads to "Aha!" moments. Quack-tastic debugging strategy! 🦆🚀 -->
 
 Thanks for dropping by! May your code be bug-free and your coffee be strong. ☕✨

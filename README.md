@@ -1,6 +1,6 @@
-# 👋 Hello, World! I'm Amir
+<h1 align="center">👋 Hello, World! I'm Amir Naar </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirn003" alt="amirn003" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&height=110&lines=Web+Developer;Full+Stack+Developer;Passionate+Developer;Coffee+Lover;Genomic+Data+Analysis+)](https://git.io/typing-svg)
 
 Welcome to my corner of the code universe! 🌌 I'm a passionate developer who loves turning coffee ☕ into code 💻. When I'm not typing away at my keyboard, you'll find me contemplating the mysteries of the semicolon or arguing with my code editor about indentation.
 
@@ -30,8 +30,6 @@ Welcome to my corner of the code universe! 🌌 I'm a passionate developer who l
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   </p>
-  
-
 
 ## 🚀 My Projects
 
@@ -41,7 +39,28 @@ Here are some of my latest adventures in code:
 - 🏡 An AirbnB clone: [AirbnB Clone Repository](https://github.com/amirn003/airbnb-yms)
 <!-- - 🌈 [Project 3]: [Short description and link] -->
 
-Feel free to explore and let me know what you think! Feedback is my love language. ❤️
+Feel free to explore and let me know what you think!
+
+## 📊 My Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amirn003&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirn003&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirn003&theme=tokyonight" align="center" />
+</p>
+
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+---
+
+<div align="center">
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amirn003&column=7"/>
+  </a>
+</div>
+
+---
+
 
 ## 📫 Let's Connect
 

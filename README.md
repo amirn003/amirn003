@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, World! I'm Amir Naar </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&height=110&lines=Web+Developer;Full+Stack+Developer;Passionate+Developer;Coffee+Lover;Genomic+Data+Analysis+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&height=110&lines=Web+Developer;Full+Stack+Developer;Passionate+Developer;Back+End+Developer;Coffee+Lover;Genomic+Data+Analysis+)](https://git.io/typing-svg)
 
 Welcome to my corner of the code universe! 🌌 I'm a passionate developer who loves turning coffee ☕ into code 💻. When I'm not typing away at my keyboard, you'll find me contemplating the mysteries of the semicolon or arguing with my code editor about indentation.
 

@@ -7,7 +7,7 @@ Welcome to my corner of the code universe! 🌌 I'm a passionate developer who l
 ## 💡 About Me
 
 - 🎓 Studying the ancient art of programming at the University of Bordeaux (au Labri).
-- 🚂 Upgrading my Web Development knowledge at Le Wagon.
+- 🚂 Continuously learning: Le Wagon Bootcamp.
 - 🚀 Always exploring new technologies and frameworks. Current crush: Django ~~Ruby-on-Rails~~.
 - 🌿 Zen master in training, contemplating the profound mysteries of code and nature during my coffee breaks. My code is my garden, and bugs are the weeds I relentlessly pull out. 🍃
 

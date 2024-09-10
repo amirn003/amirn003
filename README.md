@@ -38,9 +38,8 @@ Here are some of my latest adventures in code:
 
 - 🛥 Introducing the first Property Management System that floats: [YMS Repository](https://github.com/amirn003/yms)
 - 🏡 An AirbnB clone: [AirbnB Clone Repository](https://github.com/amirn003/airbnb-yms)
-<!-- - 🌈 [Project 3]: [Short description and link] -->
 
-Feel free to explore and let me know what you think!
+Feel free to explore 🙂
 
 ## 📊 My Github Stats
 <p align="center">
@@ -70,8 +69,5 @@ Feel free to explore and let me know what you think!
 - 💼 [Linkedin](https://www.linkedin.com/in/amir-naar/)
 - 🌐 [Portfolio](https://troopl.com/amirnaar)
 
-<!-- ## 🤖 Fun Fact -->
-
-<!-- I've mastered the art of debugging by explaining my code issues to my rubber duck, Ducky McDebug. It turns out, rubber ducks are excellent listeners, and explaining the problem often leads to "Aha!" moments. Quack-tastic debugging strategy! 🦆🚀 -->
 
 Thanks for dropping by! May your code be bug-free and your coffee be strong. ☕✨

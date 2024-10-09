@@ -2,15 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&height=110&lines=Web+Developer;Coffee+Lover;Back+End+Developer;Genomic+Data+Analysis+)](https://git.io/typing-svg)
 
-Welcome to my corner of the code universe! 🌌 I'm a passionate developer who loves turning coffee ☕ into code 💻. When I'm not typing away at my keyboard, you'll find me contemplating the mysteries of the semicolon or arguing with my code editor about indentation.
+Welcome to my corner of the code universe! 🌌 I'm a passionate developer who loves turning coffee ☕ into code 💻.
 
 ## 💡 About Me
 
-- 🎓 Studying the ancient art of programming at the University of Bordeaux (au Labri).
-- 🚂 Continuously learning: Le Wagon Bootcamp.
-- 🚀 Always exploring new technologies and frameworks. Current crush: Django ~~Ruby-on-Rails~~.
-- 🌿 Zen master in training, contemplating the profound mysteries of code and nature during my coffee breaks. My code is my garden, and bugs are the weeds I relentlessly pull out. 🍃
+I'm Amir Naar, a Freelance Developer with a background in Bioinformatics. I’ve got 7+ years of experience managing large-scale datasets, mostly through genome sequencing, and have worked with leading institutions like Gustave Roussy, specializing in cancer treatment.
 
+- 🎓 Studying the ancient art of programming at the University of Bordeaux (au Labri)
+- 🚀 Always exploring new technologies and frameworks. Current crush: Django ~~Ruby-on-Rails~~
+- 🌿 Zen master in training, contemplating the profound mysteries of code and nature during my coffee ☕️
+  
 ## 🛠️ Technologies & Tools
 
 <h3 align="left">Languages and Tools:</h3>

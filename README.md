@@ -68,7 +68,7 @@ Feel free to explore 🙂
 <!-- - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) -->
 - 📧 [Email](amir.naar@gmail.com)
 - 💼 [Linkedin](https://www.linkedin.com/in/amir-naar/)
-- 🌐 [Portfolio](https://troopl.com/amirnaar)
+- 🌐 [Portfolio](https://amirnaar.github.io/)
 
 
 Thanks for dropping by! May your code be bug-free and your coffee be strong. ☕✨

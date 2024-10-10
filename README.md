@@ -6,7 +6,7 @@ Welcome to my corner of the code universe!🌌 I'm an enthousiastic developer wh
 
 ## 💡 About Me
 
-I'm Amir Naar, a Freelance Developer with a background in Bioinformatics. I’ve got 7+ years of experience managing large-scale datasets, mostly through genome sequencing, and have worked with leading institutions like Gustave Roussy, specializing in cancer treatment.
+I'm a Freelance Developer with a background in Bioinformatics. I’ve got 7+ years of experience managing large-scale datasets, mostly through genome sequencing, and have worked with leading institutions like Gustave Roussy, specializing in cancer treatment.
 
 - 🎓 Studying the ancient art of programming at the University of Bordeaux (au Labri)
 - 🚀 Always exploring new technologies and frameworks. Current crush: Django ~~Ruby-on-Rails~~

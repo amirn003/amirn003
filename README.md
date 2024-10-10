@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&height=110&lines=Web+Developer;Coffee+Lover;Back+End+Developer;Genomic+Data+Analysis+)](https://git.io/typing-svg)
 
-Welcome to my corner of the code universe!🌌 I'm an enthousiastic developer who loves turning coffee ☕ into code 💻.
+Welcome to my corner of the code universe! 🌌 I'm an enthousiastic developer who loves turning coffee ☕ into code 💻.
 
 ## 💡 About Me
 

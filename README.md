@@ -9,7 +9,7 @@ Welcome to my corner of the code universe! 🌌 I'm an enthousiastic developer w
 I'm a Freelance Developer with a background in Bioinformatics. I’ve got 7+ years of experience managing large-scale datasets, mostly through genome sequencing, and have worked with leading institutions like Gustave Roussy, specializing in cancer treatment.
 
 - 🎓 Studying the ancient art of programming at the University of Bordeaux (au Labri)
-- 🚀 Always exploring new technologies and frameworks. Current crush: Django ~~Ruby-on-Rails~~
+- 🚀 Always exploring new technologies and frameworks. Current crush: Django
 - 🌿 Zen master in training, contemplating the profound mysteries of code and nature during my coffee ☕️
   
 ## 🛠️ Technologies & Tools
